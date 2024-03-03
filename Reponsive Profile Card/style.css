@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f1f1f1;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 370px;
+    width: 100%;
+    background: #fff;
+    border-radius: 24px;
+    padding: 25px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.card::before {
+    content: "";
+    position: absolute;
+    height: 36%;
+    width: 100%;
+    background-color: #4070f4;
+    top: 0;
+    left: 0;
+    border-radius: 24px 24px 0 0;
+}
+
+.profile-pic-container {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #4070f4;
+    padding: 3px;
+}
+
+.profile-pic{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.description {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.description .name {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.description .role {
+    color: grey;
+}
+
+.socials {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.socials .link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 34px;
+    width: 34px;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+    margin: 0 8px;
+    font-size: 18px;
+}
+
+.buttons {
+    margin: 10px 0;
+}
+
+.buttons button{
+    background-color: #4070f4;
+    border: none;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 20px;
+    margin: 0 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.buttons button:hover {
+    background-color: #0e4bf1;
+}
+
+.reactions {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.reactions .data {
+    display: flex;
+    align-items: center;
+    color: #333;
+    padding: 0 20px;
+    border-right: 2px solid #e7e7e7;
+    cursor: pointer;
+
+}
+
+.data i {
+    font-size: 18px;
+    margin-right: 6px;
+}
+
+.data:last-child {
+    border-right: none;
+}
