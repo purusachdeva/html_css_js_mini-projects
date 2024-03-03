@@ -5,7 +5,6 @@ This sub-directory contains the source code for a responsive profile card UI des
 ## Features
 
 * Responsive design ensures the card adapts to different screen sizes.
-* Profile picture with a white border for better visibility.
 * Social media links are represented by icons from Boxicons.
 * Call to action buttons for subscribing and messaging.
 * Reaction icons with counters display likes, comments, and shares.
