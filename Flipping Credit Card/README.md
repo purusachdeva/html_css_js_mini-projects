@@ -9,7 +9,7 @@ This project is a simple HTML, CSS implementation of a flipping credit card UI d
 
 ## Video Sample
 
-![video.gif](video.gif)
+![video.gif](video.mov)
 
 ## Additional Notes
 
