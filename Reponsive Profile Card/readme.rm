@@ -1,26 +1,28 @@
-Profile Card UI Design
-This repository contains the code for a responsive profile card UI design created with HTML, CSS and uses icons from the Boxicons library.
+# Profile Card UI Design
 
-Features:
+This sub-directory contains the source code for a responsive profile card UI design created with HTML, CSS, and utilizing icons from the Boxicons library.
 
-Responsive design
-Profile picture with border
-Social media links with icons
-Call to action buttons
-Reaction icons with counters
-Screenshot:
-Image of Profile Card UI DesignOpens in a new window
-dribbble.com
-Profile Card UI Design
+## Features
 
-How to use:
+* Responsive design ensures the card adapts to different screen sizes.
+* Profile picture with a white border for better visibility.
+* Social media links are represented by icons from Boxicons.
+* Call to action buttons for subscribing and messaging.
+* Reaction icons with counters display likes, comments, and shares.
 
-Clone this repository.
-Replace the mypic.jpeg file with your own profile picture.
-Update the links in the social media section with your own links.
-Open the index.html file in your web browser to see the profile card.
-Technologies used:
+## Screenshot
 
-HTML
-CSS
-Boxicons (https://boxicons.com/)
+
+
+## How to Use
+
+1. Clone this repository using Git
+2. Replace the mypic.jpeg file with your desired profile picture.
+3. Update the links in the social media section with your own links.
+4. Open the index.html file in your web browser to view the profile card.
+
+## Technologies Used
+
+* HTML
+* CSS
+* Boxicons (https://boxicons.com/usage)
