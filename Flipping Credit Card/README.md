@@ -7,9 +7,12 @@ This project is a simple HTML, CSS implementation of a flipping credit card UI d
 1. Clone or download the repository.
 2. Open the `index.html` file in your web browser.
 
-## Video Sample
+## Sample
 
-![video.gif](video.mov)
+
+
+![video.gif](video.gif)
+
 
 ## Additional Notes
 
