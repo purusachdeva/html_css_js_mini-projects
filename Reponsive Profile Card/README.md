@@ -10,7 +10,7 @@ This sub-directory contains the source code for a responsive profile card UI des
 * Reaction icons with counters display likes, comments, and shares.
 
 ## Screenshot
-![Working screenshot](sc.png)
+![Working screenshot](Screenshot-2024-03-03-at-4.56.45 PM.png)
 
 
 
