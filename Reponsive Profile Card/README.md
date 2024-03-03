@@ -12,6 +12,8 @@ This sub-directory contains the source code for a responsive profile card UI des
 
 ## Screenshot
 [Reponsive Profile Card/sc.png]
+![Working screenshot](Reponsive Profile Card/sc.png)
+
 
 
 ## How to Use
