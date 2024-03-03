@@ -16,6 +16,6 @@ This project is a simple HTML, CSS implementation of a flipping credit card UI d
 
 ## Additional Notes
 
-* The CSS code utilizes the `transform-style: preserve-3d;` property to enable 3D transforms for the card flip animation. This property may not be supported by all browsers.
+* The CSS code utilizes the `transform-style: preserve-3d;`  & `transform: rotateY()` property to enable 3D transforms for the card flip animation. This property may not be supported by all browsers.
 
 I hope you find this project useful!
