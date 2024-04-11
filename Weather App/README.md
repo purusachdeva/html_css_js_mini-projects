@@ -1,9 +1,5 @@
 # Weather App
 
-<p align="center">
-  <img src="weather_app_sc.png" width="500">
-</p>
-
 ## Description
 
 This is a simple weather app that fetches current weather data using the **OpenWeatherMap API**. It allows users to search for weather information by city name and provides detailed weather data including temperature, humidity, wind speed.
@@ -14,6 +10,10 @@ This is a simple weather app that fetches current weather data using the **OpenW
 - Displays current temperature, humidity and wind speed
 - Clean and intuitive user interface
 - Responsive design for various screen sizes
+
+## Screenshot
+
+<img src="weather_app_sc.png" width="500">
 
 ## Technologies Used
 
