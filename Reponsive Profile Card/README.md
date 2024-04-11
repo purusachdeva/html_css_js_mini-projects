@@ -12,17 +12,8 @@ This sub-directory contains the source code for a responsive profile card UI des
 ## Screenshot
 ![Working screenshot](mypic.png)
 
-
-
-## How to Use
-
-1. Clone this repository using Git
-2. Replace the mypic.jpeg file with your desired profile picture.
-3. Update the links in the social media section with your own links.
-4. Open the index.html file in your web browser to view the profile card.
-
 ## Technologies Used
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Boxicons (https://boxicons.com/usage)

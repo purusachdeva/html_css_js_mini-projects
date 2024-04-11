@@ -1,10 +1,12 @@
 # Weather App
 
-![Weather App Screenshot](weather_app_screenshot.png)
+<p align="center">
+  <img src="weather_app_sc.png" width="500">
+</p>
 
 ## Description
 
-This is a simple weather app that fetches current weather data using the OpenWeatherMap API. It allows users to search for weather information by city name and provides detailed weather data including temperature, humidity, wind speed.
+This is a simple weather app that fetches current weather data using the **OpenWeatherMap API**. It allows users to search for weather information by city name and provides detailed weather data including temperature, humidity, wind speed.
 
 ## Features
 
@@ -19,26 +21,6 @@ This is a simple weather app that fetches current weather data using the OpenWea
 - CSS3
 - JavaScript
 - OpenWeatherMap API
-
-## Setup
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/purusachdeva/weather-app.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd weather-app
-```
-
-3. Open index.html in your web browser.
-
-4. Enter the city name in the search bar and click the search button to fetch weather data.
 
 ## API Usage
 
