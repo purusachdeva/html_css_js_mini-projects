@@ -1,5 +1,3 @@
-![Screenshot](working-sc.png)
-
 # To-Do List
 
 A simple web application for managing your to-do tasks.
@@ -10,6 +8,10 @@ A simple web application for managing your to-do tasks.
 - Mark tasks as completed
 - Delete tasks
 - Responsive design for mobile and desktop
+
+## Screenshot
+
+<img src="working-sc.png" width="600">
 
 ## Technologies Used
 
