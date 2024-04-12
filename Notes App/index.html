@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width-device-width, intial-scale=1.0'>
+    <title>Notes App</title>
+
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <div class="container">
+      <h1><img src="images/notes.png"> Notes</h1>
+      <button class="create-button"><img src="images/edit.png"> Create Notes</button>
+      <div class="notes-container">
+        <p contenteditable="true" class="input-box">
+          <span contenteditable="false">
+            <img src="images/delete.png">
+          </span>
+        </p>
+      </div>
+
+      <button class="clear" onclick="clearLocalStorage()">Clear</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
